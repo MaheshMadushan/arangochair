@@ -1,0 +1,58 @@
+{
+  "_from": "arangochair",
+  "_id": "arangochair@4.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-cBv5PyakBNpAgIZCgJydGd8n2IZC43q5tc4pt8tcJpTyIpXH++K09nnrMlyM/Ohktd1nmlE9nVQRoGhfy403Dg==",
+  "_location": "/arangochair",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "arangochair",
+    "name": "arangochair",
+    "escapedName": "arangochair",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/arangochair/-/arangochair-4.0.2.tgz",
+  "_shasum": "a0eaaba6edbdf033d5369c381f0c5662cbbbabe4",
+  "_spec": "arangochair",
+  "_where": "/home/mahesh_9090/fyp/ArangoDBCDC",
+  "author": {
+    "name": "Manuel Baesler"
+  },
+  "bugs": {
+    "url": "https://github.com/baslr/arangochair/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "request-easy": "^2.0.1"
+  },
+  "deprecated": false,
+  "description": "`arangochair` pushs ArangoDB changes in realtime to you",
+  "devDependencies": {},
+  "homepage": "https://github.com/baslr/arangochair#readme",
+  "keywords": [
+    "arangodb",
+    "push",
+    "realtime",
+    "watch",
+    "monitor"
+  ],
+  "license": "AGPL-3.0",
+  "main": "index.js",
+  "name": "arangochair",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baslr/arangochair.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "4.0.2"
+}
